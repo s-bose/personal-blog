@@ -11,23 +11,23 @@ module.exports = {
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/narative`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/narative`,
       },
       {
         name: `instagram`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://instagram.com/narative.co`,
       },
       {
         name: `linkedin`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://www.linkedin.com/company/narative/`,
       },
       {
         name: `dribbble`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://dribbble.com/narativestudio`,
       },
     ],
   },
