@@ -1,4 +1,4 @@
-<a href="https://gatsby-theme-novela.netlify.com" target="_blank">
+<a href="https://novela.narative.co" target="_blank">
 <img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-hero.jpg" alt="gatsby-novela-theme hero image" />
 </a>
 
@@ -11,7 +11,7 @@ With minimal styling and maximum features — including multiple homepage layout
 Novela is built by the team at [Narative](https://www.narative.co), and built for everyone that loves the web.
 
 <div>
-<a href="https://gatsby-theme-novela.netlify.com" target="_blank">
+<a href="https://novela.narative.co" target="_blank">
 <img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-demo.jpg" alt="gatsby-novela-theme live demo" width="295px" />
 </a>
 </div>
@@ -171,7 +171,7 @@ module.exports = {
   siteMetadata: {
     title: `Novela by Narative`,
     name: `Narative`,
-    siteUrl: `https://gatsby-theme-novela.netlify.com`,
+    siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
 
     // important to set the main text that appears in the hero
