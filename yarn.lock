@@ -1256,10 +1256,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@narative/gatsby-theme-novela@^0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@narative/gatsby-theme-novela/-/gatsby-theme-novela-0.0.8.tgz#4dfdac00d6a489074bb39a4cc51b3efd3f8ca04f"
-  integrity sha512-GvKRhK9yrAn6AP8DO0FahmAzFof+p75zYt73Mgu7MDzAT/4xDRShALzD6onPwhhGoaA+TaMiqM9egQJNTv2QrQ==
+"@narative/gatsby-theme-novela@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@narative/gatsby-theme-novela/-/gatsby-theme-novela-0.1.0.tgz#efbf4751291fe3d7a2095538faf5c0385b49d85a"
+  integrity sha512-8871q8gRSQXQ2DeBbCUdZlw8ZMIjeB5yRW+9n5gmanjAq7ldTPpapNkozqwgm5vaujTnv+TfzwVPEf0vnXKDew==
   dependencies:
     "@emotion/core" "^10.0.14"
     "@emotion/styled" "^10.0.14"
@@ -1291,6 +1291,7 @@
     lodash "^4.17.15"
     prism-react-renderer "^0.1.7"
     react-helmet "^5.2.1"
+    react-medium-image-zoom "^3.1.1"
     react-outside-click-handler "^1.2.4"
     remark-slug "^5.1.2"
     request "^2.88.0"
@@ -10430,6 +10431,11 @@ react-lifecycles-compat@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
+
+react-medium-image-zoom@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/react-medium-image-zoom/-/react-medium-image-zoom-3.1.1.tgz#6e48901e5e899fad4483e9a7251ad9a8e81ded23"
+  integrity sha512-nAbQLFJtRTrdizsYZ5zlsjY+irXpFT0JC16jo4BXIlWH5KPerFkZoU5AWnDw6TOjRaqOVKr5lsjcUt/xC2zMwA==
 
 react-outside-click-handler@^1.2.4:
   version "1.2.4"
