@@ -45,8 +45,8 @@ This can be done through the `options` key in the `gatsby-theme-novela` object.
 
 | Option         |     Default     |
 | -------------- | :-------------: |
-| contentAuthors |  content/posts  |
-| contentPosts   | content/authors |
+| contentAuthors |  content/authors|
+| contentPosts   | content/posts   |
 | basePath       |        /        |
 
 This is the default and recommended configuration
