@@ -33,7 +33,7 @@ cd gatsby-theme-novela-example
 
 yarn
 
-yarn develop
+yarn dev
 
 yarn build
 ```
