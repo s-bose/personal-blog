@@ -1,33 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
+    title: `Shiladitya Bose`,
     name: `Narative`,
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Personal Blog`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://github.com/s-bose`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://www.linkedin.com/in/shiladitya-bose/`,
       },
     ],
   },
@@ -35,6 +23,7 @@ module.exports = {
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
+        authorsPage: true,
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
@@ -52,7 +41,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
-        display: `standalone`,
+        // display: `standalone`,
         icon: `src/assets/favicon.png`,
       },
     },

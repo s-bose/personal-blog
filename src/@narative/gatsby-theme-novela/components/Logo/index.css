@@ -1,0 +1,9 @@
+ path {
+    fill: "#ccc";
+}
+
+@media (prefers-color-scheme: dark) {
+    path {
+        fill: #fff;
+    }
+}
